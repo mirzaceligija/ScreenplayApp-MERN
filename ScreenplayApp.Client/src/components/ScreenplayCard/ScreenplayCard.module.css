@@ -1,0 +1,30 @@
+.Card {
+    border:1px solid #dedede;
+    border-radius: 7px;
+}
+
+.Card img {
+    width: 100%;
+}
+
+.Card section {
+    padding: 20px;
+}
+
+.Card h2 {
+    margin-bottom: 20px;
+}
+
+.Card p {
+    color:#444;
+    line-height: 1.5;
+}
+
+.Card .Category {
+    color: #fff;
+    padding:7px;
+    width: fit-content;
+    border-radius: 4px;
+    margin-top: 20px;
+    background-color: #74b9ff;
+}

@@ -1,0 +1,38 @@
+.Center {
+    text-align: center;
+}
+
+.Button, .Active, .Default {
+    background-color: #6c5ce7;
+    padding: 7px 18px;
+    outline: none;
+    border:none;
+    border-radius: 4px;
+    height: 40px;
+    color:#222;
+    margin: 5px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+
+.Button {
+    margin: 20px;
+    color:#fff;
+}
+
+.Active {
+    background-color: #fdcb6e;
+}
+
+.Default {
+    background-color: #dfe6e9;
+}
+
+.Default:hover {
+    background-color: #fdcb6e;
+}
+
+button:first-of-type{
+    margin-left: 0;
+}
