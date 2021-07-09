@@ -17,10 +17,9 @@ An App that allows users to rate and search for any screenplays (movies and tv s
 
 This app is created using **ReactJs** on the Front-End side and **NodeJS REST API** with **ExpressJs, Mongoose & MongoDb** on the Back-end. Additional tools and technologies used:
 
-- SASS
-- angular-cli
+- CSS Modules
+- create-react-app
 - Postman
-- Angular Material components (Sidenav)
 - Visual Studio Code and Visual Studio (IDE)
 
 
